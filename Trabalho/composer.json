@@ -1,0 +1,16 @@
+{
+    "name": "projetostephanny/projeto",
+    "description": "Segundo projeto de Romerito",
+    "autoload": {
+        "psr-4": {
+            "Projetostephanny\\Projeto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stephanny Fladja",
+            "email": "silva.stephanny@escolar.ifrn.edu.br"
+        }
+    ],
+    "require": {}
+}
